@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+
+	<course hot="true">
+		<instructor>SK SIR</instructor>
+		<year>2078 </year>
+                <coursename> C Programming</coursename>
+	</course>
+
+	<course>
+		<instructor>Sushil K Singh</instructor>
+		<year>2079 </year>
+		<coursename> Java OOP</coursename>
+	</course>
+
+        <course>
+		<instructor>Navin Mahato</instructor>
+		<year>2078 </year>
+		<coursename> Operating System</coursename>
+        </course>
+
+        <course hot="true">
+		<instructor>Bivek Mishara</instructor>
+		<year>2080 </year>
+		<coursename> Computer Network </coursename>
+	</course>
+
+	<course>
+		<instructor>Yugal Kishor Mahato</instructor>
+		<year>2080 </year>
+		<coursename> Workshop </coursename>
+	</course>
+
+	<course>
+		<instructor>Shakil Ahmad</instructor>
+		<year>2078 </year>
+		<coursename> Telecomnunication </coursename>
+	</course>
+
+	<course>
+		<instructor>Mukti Sah</instructor>
+		<year>2078 </year>
+		<coursename> Highway </coursename>
+	</course>
+	  
+	  
+</courses>
